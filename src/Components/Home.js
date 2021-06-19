@@ -21,6 +21,18 @@ const Home = () => {
       author: "Taha",
       id: 3,
     },
+    {
+      name: "Birthday Party",
+      body: "Lorem, ipsum dolor sit amet cons",
+      author: "Taha",
+      id: 3,
+    },
+    {
+      name: "Birthday Party",
+      body: "Lorem, ipsum dolor sit amet cons",
+      author: "Taha",
+      id: 3,
+    },
   ]);
   return (
     <div className="home">
