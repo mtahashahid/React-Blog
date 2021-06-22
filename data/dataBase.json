@@ -1,0 +1,16 @@
+{
+    "blogs":[
+        {
+            "title": "First Blog",
+            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati exercitationem voluptate quasi ad eius saepe commodi laudantium adipisci quis fuga, voluptas quae dicta beatae cupiditate aspernatur perspiciatis illo doloremque quam.",
+            "author": "Taha",
+            "id": 1
+        },
+        {
+            "title": "Second Blog",
+            "body": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Obcaecati exercitationem voluptate quasi ad eius saepe commodi laudantium adipisci quis fuga, voluptas quae dicta beatae cupiditate aspernatur perspiciatis illo doloremque quam.",
+            "author": "Bilal",
+            "id": 2
+        }
+    ]
+}
